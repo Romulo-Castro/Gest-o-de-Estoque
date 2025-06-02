@@ -83,6 +83,7 @@ class StockItem {
       imageUrl: imageUrl ?? this.imageUrl,
       createdAt: createdAt ?? this.createdAt,
       updatedAt: updatedAt ?? this.updatedAt,
+      //asdfas
     );
   }
 }
