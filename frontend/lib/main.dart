@@ -1,7 +1,7 @@
 // lib/main.dart
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-
+// teste
 // Importar Providers
 import '/providers/auth_provider.dart';
 import '/providers/store_provider.dart';
