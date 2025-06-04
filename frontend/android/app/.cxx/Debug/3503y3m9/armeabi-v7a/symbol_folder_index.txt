@@ -1,0 +1,1 @@
+C:\gestao_estoque_repo\frontend\build\app\intermediates\cxx\Debug\3503y3m9\obj\armeabi-v7a

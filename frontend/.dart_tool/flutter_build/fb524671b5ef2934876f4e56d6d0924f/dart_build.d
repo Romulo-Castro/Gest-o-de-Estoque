@@ -1,0 +1,1 @@
+ C:\\gestao_estoque_repo\\frontend\\.dart_tool\\flutter_build\\fb524671b5ef2934876f4e56d6d0924f\\dart_build_result.json: 
